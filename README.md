@@ -25,6 +25,8 @@ In order to run the program, you will need to complete the following steps:
 
 The program will now launch
 
+*** I have also uploaded a pdf called, "ST10084788_APDS7311-POE", which contains all information necessary for this submission, this pdf also conatins screenshots of the application. 
+
 Connection string to MongDB: mongodb+srv://user:password2023@testdb.gdzzqbi.mongodb.net/?retryWrites=true&w=majority
 
 Contact Information
